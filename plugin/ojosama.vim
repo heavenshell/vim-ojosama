@@ -8,4 +8,4 @@ endif
 import autoload 'ojosama.vim'
 
 command! -buffer -nargs=* -range=0
-      \ Ojosama ojosama#Say(<q-args>, <count>, <line1>, <line2>)
+      \ Ojosama ojosama.Say(<q-args>, <count>, <line1>, <line2>)
