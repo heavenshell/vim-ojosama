@@ -2,6 +2,8 @@
 
 Vim plugin for [ojosama](https://github.com/jiro4989/ojosama).
 
+https://raw.githubusercontent.com/heavenshell/vim-ojosama/main/assets/ojosama.mp4
+
 ## Requirement
 
 - ojosama
