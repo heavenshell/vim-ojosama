@@ -2,7 +2,7 @@
 
 Vim plugin for [ojosama](https://github.com/jiro4989/ojosama).
 
-https://raw.githubusercontent.com/heavenshell/vim-ojosama/main/assets/ojosama.mp4
+https://user-images.githubusercontent.com/56591/174468526-cc5935d5-70ec-401f-8bd1-9ec72be62a89.mp4
 
 ## Requirement
 
